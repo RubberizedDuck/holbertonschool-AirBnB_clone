@@ -74,8 +74,10 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
     border-left: none;
     border-right: none;
     border-top: 1px solid #DDDDDD;
