@@ -82,6 +82,8 @@
     border-right: none;
     border-top: 1px solid #DDDDDD;
     border-bottom: 1px solid #DDDDDD;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
 }
 .max_guest, .number_rooms, .number_bathrooms {
     width: 100px;
